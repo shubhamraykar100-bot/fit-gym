@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fit-gym/static/css/main.5670dd14.css",
+    "main.js": "/fit-gym/static/js/main.e7dad45b.js",
+    "index.html": "/fit-gym/index.html",
+    "main.5670dd14.css.map": "/fit-gym/static/css/main.5670dd14.css.map",
+    "main.e7dad45b.js.map": "/fit-gym/static/js/main.e7dad45b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5670dd14.css",
+    "static/js/main.e7dad45b.js"
+  ]
+}
