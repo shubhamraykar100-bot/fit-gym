@@ -2,7 +2,6 @@
   "name": "fit-gym",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://shubhamraykar100-bot.github.io/fit-gym",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
